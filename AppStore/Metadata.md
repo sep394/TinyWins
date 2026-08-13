@@ -1,8 +1,8 @@
-# Tiny Wins — App Store metadata draft
+# Glimmerstack — App Store metadata draft
 
-**Name:** Tiny Wins
+**Name:** Glimmerstack
 
-**Subtitle:** Notice your daily progress
+**Subtitle:** Small wins, stacked.
 
 **Category:** Lifestyle
 
@@ -10,7 +10,7 @@
 
 **Description:**
 
-Big progress is made of tiny moments. Tiny Wins gives you a calm, private place to record the things that went right—from finishing a difficult task to simply getting started.
+Big progress is made of tiny moments. Glimmerstack gives you a calm, private place to record the things that went right—from finishing a difficult task to simply getting started.
 
 Add a win in seconds, see your daily momentum, and revisit past accomplishments whenever you need perspective. There are no accounts, ads, social feeds, or complicated goals. Your entries stay on your device.
 
@@ -23,7 +23,7 @@ Features:
 
 **Keywords:** gratitude,progress,journal,habits,motivation,wellness,reflection,accomplishments
 
-**Privacy policy summary:** Tiny Wins does not collect or transmit personal data. Entries are stored locally on the user’s device.
+**Privacy policy summary:** Glimmerstack does not collect or transmit personal data. Entries are stored locally on the user’s device.
 
 **Support URL:** https://sep394.github.io/TinyWins/support.html
 

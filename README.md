@@ -1,6 +1,6 @@
-# Tiny Wins
+# Glimmerstack
 
-Tiny Wins is a private, offline iPhone app for noticing and recording small daily accomplishments.
+Glimmerstack is a private, offline iPhone app for noticing and recording small daily accomplishments.
 
 ## Open and run
 
