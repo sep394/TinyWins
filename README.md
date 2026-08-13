@@ -12,7 +12,7 @@ All data stays on the device in `UserDefaults`. The app has no accounts, analyti
 
 ## Release checklist
 
-- Replace the placeholder bundle identifier with one registered to your Apple Developer account.
+- Bundle identifier: `com.sep394.tinywins`.
 - Choose your development team under Signing & Capabilities.
 - Set the version/build number as needed.
 - Archive, validate, and upload through Xcode Organizer.

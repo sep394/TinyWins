@@ -25,6 +25,6 @@ Features:
 
 **Privacy policy summary:** Tiny Wins does not collect or transmit personal data. Entries are stored locally on the user’s device.
 
-**Support URL:** Required before submission; supply a public support page or contact page.
+**Support URL:** https://sep394.github.io/TinyWins/support.html
 
-**Privacy policy URL:** Add a public privacy-policy URL before submission.
+**Privacy policy URL:** https://sep394.github.io/TinyWins/privacy.html
